@@ -1,5 +1,1 @@
 "*.exe" 
-/shelf/
-out/*
-/workspace.xml
-.idea/
