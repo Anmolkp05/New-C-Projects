@@ -1,4 +1,4 @@
-#define _USE_MATH_DEFINES
+
 #include <stdio.h>
 #include <math.h>  // math functions aur M_PI ke liye include kiya hai
 
